@@ -1,7 +1,7 @@
 [package]
-name = $NAME$
+name = "" # Replaced
 version = "0.1.0"
-authors = $AUTHORS$
+authors = [] # Replaced
 build = "build.rs"
 
 [dependencies]
